@@ -1,4 +1,4 @@
-# Generative Adversarial Networks Specialization - Coursera: Programming assignments solutions
+# Generative Adversarial Networks Specialization: Programming assignments solutions
 This reposity contains my solutions for the programming assignments from all courses in the Coursera [GAN Specialization](https://www.deeplearning.ai/program/generative-adversarial-networks-gans-specialization/) offered by [deeplearning.ai](https://www.deeplearning.ai/)
 
 ## Course 1: Build Basic Generative Adversarial Networks
